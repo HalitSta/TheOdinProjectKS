@@ -1,0 +1,144 @@
+*{
+	font-family: 'Roboto', sans-serif;
+	background-color: #1F2937;
+}
+
+html body{
+	margin: 0;
+}
+
+
+ul, li{
+	text-align: right;
+	margin-right: 3%;
+}
+
+#h1{
+	display: inline-block;
+	color: white;
+	margin-right: 39.5%;
+}
+
+
+li{
+	display: inline-block;
+}
+
+.lista, a{
+	text-decoration: none;
+    color: lightgray;
+}
+
+.container{
+	color: white;
+	margin-top: -7%;
+}
+
+.container2{
+	background-color: white;
+	width: 100%;
+	height: 70%;
+	margin-top: -6%;
+}
+
+#random{
+	background-color: white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+
+/* the flex boxes */
+
+
+.flex-container {
+	background-color: white;
+	margin-left: 21%;
+   word-spacing: 30px;
+  }
+  
+
+  .flex-container div {
+	display: inline-block;
+	padding: 30;
+	background: white;
+	border: 4px solid rgb(42, 111, 240);
+	height: 100px;
+	width: 100px;
+	border-radius: 15px;
+  }
+
+p{
+	background-color: white;
+	color: grey;
+}
+
+
+
+
+.grey{
+	background-color: #E5E7EB;
+	width: 100%;
+    height: 70%;
+	margin-top: -3%;
+}
+
+#quote{
+	background-color: #E5E7EB;
+	color: #1F2937;
+	font-style: italic;
+	font-size: 38px;
+	text-align: left;
+	margin-left: 18%;
+	padding-top: 10%;
+}
+
+#thor{
+	background-color: #E5E7EB; 
+	font-size: 25px; 
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-left: 62%;
+}
+
+
+/* sign up */
+
+#action{
+	background-color: white;
+	width: 100%;
+    height: 70%;
+}
+
+/* reserving space */
+
+#white{
+	background-color: white; 
+	width: 20%; 
+	height: 20%;
+}
+
+#blue, h3{
+	color: white;
+	margin-left: 12.5%;
+	background-color: #3882F6;
+	border-radius: 10px;
+	width: 80%;
+    height: 30%;
+}
+
+#btn{
+	margin-left: 70%;
+	margin-top: -4%;
+}
+
+
+/* footer */
+
+.footer #phi{
+	background-color: #1F2937;
+    height: 5%;
+	color: white;
+	text-align: center;
+	padding-top: 2%;
+}
